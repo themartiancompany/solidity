@@ -25,6 +25,7 @@
 
 #include <memory>
 #include <string>
+#include <cstdint>
 #include <vector>
 
 // Forward-declare all AST node types and related enums.
